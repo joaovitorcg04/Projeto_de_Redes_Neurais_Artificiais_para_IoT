@@ -1,0 +1,1 @@
+# Projeto_de_Redes_Neurais_Artificiais_para_IoT
